@@ -1,0 +1,7 @@
+.env
+*.json
+.vs/
+build/
+dist/
+__pycache__/
+Run-GUI.spec
